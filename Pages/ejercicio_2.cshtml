@@ -1,0 +1,18 @@
+﻿@page
+@model EjerciciosRazor.Pages.ejercicio_2Model
+@{
+}
+<h1>Cifrador de Julio Cesar</h1>
+
+<form method="post">
+    <p>Mensaje: <input type="text" asp-for="mensaje" /> </p>
+    <p>N: <input type="number" asp-for="n" /> </p>
+    <p>Cifrar: <input type="radio" asp-for="accion" value="cifrar"/> </p>
+    <p>Descifrar: <input type="radio" asp-for="accion" value="descifrar" /> </p>
+
+    <p><input type="submit" value="Realizar accion" /></p>
+</form>
+
+@{
+    @Model.resultado;
+}

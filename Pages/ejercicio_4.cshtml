@@ -1,0 +1,30 @@
+﻿@page
+@model EjerciciosRazor.Pages.ejercicio_4Model
+
+<h1>Numeros aleatorios</h1>
+
+<h3>Arreglo Aleatorio</h3>
+<table border="1">
+    <tr>
+        @foreach (var n in Model.numeros)
+        {
+            <td>@n, </td>
+        }
+    </tr>
+</table>
+
+<p>Suma: @Model.sumaResultado</p>
+<p>Promedio: @Model.mediaResultado</p>
+
+<h3>Arreglo Ordenado</h3>
+<table border="1">
+    <tr>
+        @foreach (var n in Model.numerosOrdenados)
+        {
+            <td>@n, </td>
+        }
+    </tr>
+</table>
+
+<p>Moda: @string.Join(" y ", Model.modaResultado)</p>
+<p>Mediana: @Model.medianaResultado</p>

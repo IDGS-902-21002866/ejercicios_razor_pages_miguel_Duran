@@ -1,0 +1,52 @@
+﻿@page
+@model EjerciciosRazor.Pages.ejercicio_1Model
+@{
+}
+<h1>Calculadora de indice de masa corporal</h1>
+
+<form method="post">
+    <p>Peso en kilos: <input type="number" asp-for="peso" step="0.01" /> </p>
+    <p>Altura en metros: <input type="number" asp-for="altura" step="0.01"/> </p>
+    <p><input type="submit" value="Calcular" /></p>
+</form>
+
+@{
+    double imc = Model.resultado;
+}
+
+@if(imc > 0)
+{
+    <strong>IMC: @imc</strong>
+}
+
+@if (imc > 0 && imc < 18)
+{
+    <p>Tienes bajo peso</p>
+    <img src="~/img/imc_bajo_peso_v3.svg" />
+}
+else if (imc >= 18 && imc < 25)
+{
+    <p>Tienes un peso normal</p>
+    <img src="~/img/imc_normal_v3.svg" />
+}
+else if (imc >= 25 && imc < 27)
+{
+    <p>Tienes sobrepeso</p>
+    <img src="~/img/imc_sobrepeso_v3.svg" />
+}
+else if (imc >= 27 && imc < 30)
+{
+    <p>Tienes obesidad grado I</p>
+    <img src="~/img/imc_ob1_v3.svg" />
+}
+else if (imc >= 30 && imc < 40)
+{
+    <p>Tienes obesidad grado II</p>
+    <img src="~/img/imc_ob2_v3.svg" />
+}
+else if (imc >= 40)
+{
+    <p>Tienes obesidad grado III</p>
+    <img src="~/img/imc_ob3_v3.svg" />
+}
+

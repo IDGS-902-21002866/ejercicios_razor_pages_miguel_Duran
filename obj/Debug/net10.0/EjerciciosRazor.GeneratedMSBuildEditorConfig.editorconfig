@@ -1,0 +1,67 @@
+is_global = true
+build_property.TargetFramework = net10.0
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v10.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EjerciciosRazor
+build_property.RootNamespace = EjerciciosRazor
+build_property.ProjectDir = C:\utl\9no\DWI\EjerciciosRazor\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\utl\9no\DWI\EjerciciosRazor
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 10.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/utl/9no/DWI/EjerciciosRazor/ejercicios_razor_pages_miguel_Duran/Pages/ejercicio_1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWplcmNpY2lvc19yYXpvcl9wYWdlc19taWd1ZWxfRHVyYW5cUGFnZXNcZWplcmNpY2lvXzEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/utl/9no/DWI/EjerciciosRazor/ejercicios_razor_pages_miguel_Duran/Pages/ejercicio_2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWplcmNpY2lvc19yYXpvcl9wYWdlc19taWd1ZWxfRHVyYW5cUGFnZXNcZWplcmNpY2lvXzIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/utl/9no/DWI/EjerciciosRazor/ejercicios_razor_pages_miguel_Duran/Pages/ejercicio_3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWplcmNpY2lvc19yYXpvcl9wYWdlc19taWd1ZWxfRHVyYW5cUGFnZXNcZWplcmNpY2lvXzMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/utl/9no/DWI/EjerciciosRazor/ejercicios_razor_pages_miguel_Duran/Pages/ejercicio_4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWplcmNpY2lvc19yYXpvcl9wYWdlc19taWd1ZWxfRHVyYW5cUGFnZXNcZWplcmNpY2lvXzQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/utl/9no/DWI/EjerciciosRazor/ejercicios_razor_pages_miguel_Duran/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWplcmNpY2lvc19yYXpvcl9wYWdlc19taWd1ZWxfRHVyYW5cUGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/utl/9no/DWI/EjerciciosRazor/ejercicios_razor_pages_miguel_Duran/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWplcmNpY2lvc19yYXpvcl9wYWdlc19taWd1ZWxfRHVyYW5cUGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/utl/9no/DWI/EjerciciosRazor/ejercicios_razor_pages_miguel_Duran/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWplcmNpY2lvc19yYXpvcl9wYWdlc19taWd1ZWxfRHVyYW5cUGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/utl/9no/DWI/EjerciciosRazor/ejercicios_razor_pages_miguel_Duran/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWplcmNpY2lvc19yYXpvcl9wYWdlc19taWd1ZWxfRHVyYW5cUGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/utl/9no/DWI/EjerciciosRazor/ejercicios_razor_pages_miguel_Duran/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWplcmNpY2lvc19yYXpvcl9wYWdlc19taWd1ZWxfRHVyYW5cUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/utl/9no/DWI/EjerciciosRazor/ejercicios_razor_pages_miguel_Duran/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWplcmNpY2lvc19yYXpvcl9wYWdlc19taWd1ZWxfRHVyYW5cUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/utl/9no/DWI/EjerciciosRazor/ejercicios_razor_pages_miguel_Duran/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = ZWplcmNpY2lvc19yYXpvcl9wYWdlc19taWd1ZWxfRHVyYW5cUGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-8m2t3h2uxa

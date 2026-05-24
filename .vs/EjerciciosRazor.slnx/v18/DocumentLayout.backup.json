@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\utl\\9no\\DWI\\EjerciciosRazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D17FFF98-AAB0-471E-B283-8F2903C8C487}|EjerciciosRazor.csproj|c:\\utl\\9no\\dwi\\ejerciciosrazor\\pages\\ejercicio_4.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D17FFF98-AAB0-471E-B283-8F2903C8C487}|EjerciciosRazor.csproj|solutionrelative:pages\\ejercicio_4.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17FFF98-AAB0-471E-B283-8F2903C8C487}|EjerciciosRazor.csproj|c:\\utl\\9no\\dwi\\ejerciciosrazor\\pages\\ejercicio_4.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17FFF98-AAB0-471E-B283-8F2903C8C487}|EjerciciosRazor.csproj|solutionrelative:pages\\ejercicio_4.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17FFF98-AAB0-471E-B283-8F2903C8C487}|EjerciciosRazor.csproj|c:\\utl\\9no\\dwi\\ejerciciosrazor\\pages\\ejercicio_3.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17FFF98-AAB0-471E-B283-8F2903C8C487}|EjerciciosRazor.csproj|solutionrelative:pages\\ejercicio_3.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17FFF98-AAB0-471E-B283-8F2903C8C487}|EjerciciosRazor.csproj|c:\\utl\\9no\\dwi\\ejerciciosrazor\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D17FFF98-AAB0-471E-B283-8F2903C8C487}|EjerciciosRazor.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ejercicio_3.cshtml.cs",
+              "DocumentMoniker": "C:\\utl\\9no\\DWI\\EjerciciosRazor\\Pages\\ejercicio_3.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\ejercicio_3.cshtml.cs",
+              "ToolTip": "C:\\utl\\9no\\DWI\\EjerciciosRazor\\Pages\\ejercicio_3.cshtml.cs",
+              "RelativeToolTip": "Pages\\ejercicio_3.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T04:57:08.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ejercicio_4.cshtml.cs",
+              "DocumentMoniker": "C:\\utl\\9no\\DWI\\EjerciciosRazor\\Pages\\ejercicio_4.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\ejercicio_4.cshtml.cs",
+              "ToolTip": "C:\\utl\\9no\\DWI\\EjerciciosRazor\\Pages\\ejercicio_4.cshtml.cs",
+              "RelativeToolTip": "Pages\\ejercicio_4.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T04:56:20.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\utl\\9no\\DWI\\EjerciciosRazor\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\utl\\9no\\DWI\\EjerciciosRazor\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T04:54:33.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ejercicio_4.cshtml",
+              "DocumentMoniker": "C:\\utl\\9no\\DWI\\EjerciciosRazor\\Pages\\ejercicio_4.cshtml",
+              "RelativeDocumentMoniker": "Pages\\ejercicio_4.cshtml",
+              "ToolTip": "C:\\utl\\9no\\DWI\\EjerciciosRazor\\Pages\\ejercicio_4.cshtml",
+              "RelativeToolTip": "Pages\\ejercicio_4.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T04:52:39.744Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
